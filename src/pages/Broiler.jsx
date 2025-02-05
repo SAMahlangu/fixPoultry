@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'; // Import useRef if using refs
 import './Broiler.css'; // Import the CSS file
-import chickenImage from '../assets/chickens.png'; // Adjust the path to point to your image
+import chickenImage from '../assets/chickens.pn'; // Adjust the path to point to your image
 import concreteImage from '../assets/mason.png'; // Add the path to your concrete image
 import corrugatedImage from '../assets/iron.png'; // Add the path to your corrugated iron image
 import floorplanImage from '../assets/floorplan.png'; // Add the path to your corrugated iron image
